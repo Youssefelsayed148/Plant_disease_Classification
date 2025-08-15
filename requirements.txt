@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-addons
+tensorflow-hub
+vit-keras
+transformers
+scikit-learn
+matplotlib
+seaborn
+kaggle
